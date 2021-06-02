@@ -17,15 +17,6 @@ I am currently a phd student in School of Economics at Nankai University , under
 - 2021, M.A. in Economics, School of Economics & Management, Northwest University 
 - 2018, B.A. in Economics, School of Economics, Nanjing university of Posts and Communications 
 
-# Research Interests
 
-- 
-- 
--
-- 
-
-# Grants
-
-- 
-- 
+ 
 
