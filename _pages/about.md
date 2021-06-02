@@ -20,7 +20,7 @@ I am currently a phd student in School of Economics at Nankai University , under
 # Research interest
 
 - climate change economics
-- machine learning and casual inference
+- machine learning and causal inference
 - econometrics
  
 
