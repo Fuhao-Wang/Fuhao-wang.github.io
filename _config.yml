@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Xuening Zhu"
+title                    : "Fuhao Wang"
 title_separator          : "-"
-name                     : &name "Xuening Zhu"
-description              : &description "Assistant Professor"
-url                      : https://XueningZhu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Fuhao Wang"
+description              : &description "PHD Student"
+url                      : https://fuhao-wang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "XueningZhu.github.io"
+repository               : "Fuhao-Wang.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -78,13 +78,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Xuening Zhu"
+  name             : "Fuhao Wang"
   avatar           : "profile.png"
-  bio              : "Assistant Professor"
+  bio              : "Phd Student"
   location         : 
-  employer         : "Fudan University, Shanghai"
-  googlescholar    : "https://scholar.google.com/citations?user=BdUr758AAAAJ&hl=en"
-  email            : "xueningzhu@fudan.edu.cn"
+  employer         : "Nankai University, Tianjing"
+  googlescholar    : 
+  email            : "1493512917@qq.com"
   uri              :
   bitbucket        :
   codepen          :
@@ -92,13 +92,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "XueningZhu"
+  github           : "FuhaoWang"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/0000-0001-5824-5279"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
