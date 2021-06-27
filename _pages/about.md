@@ -10,7 +10,7 @@ redirect_from:
 
 ![](../images/webpage.jpg)
 
-I am currently a phd student in School of Economics at Nankai University , under the supervision of Prof.Xiaoxin Liu. I got my Master degree in Economics from School of Economics & Management, Northwest University in 2021, under the supervision of Prof. Yanni Liu. 
+I am currently a phd student in School of Economics at Nankai University. I got my Master degree in Economics from School of Economics & Management, Northwest University in 2021. 
 
 # Education
 
