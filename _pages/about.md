@@ -8,8 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-
-
 I am currently a phd student in School of Economics  at Nankai University. 
 
 
