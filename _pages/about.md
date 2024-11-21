@@ -10,7 +10,6 @@ redirect_from:
 
 I am currently a phd student in School of Economics  at Nankai University. 
 
-
 # Education
 
 - 2021, M.A. in Economics , Northwest University, Xi'an. China.
