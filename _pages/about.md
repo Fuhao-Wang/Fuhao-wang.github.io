@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-![](../images/webpage.jpg)
+// ![](../images/webpage.jpg)
 
 I am currently a phd student in School of Economics  at Nankai University. 
 
